@@ -1,0 +1,16 @@
+kri_id,kri_name,business_unit,regulatory_domain,current_value,threshold_warning,threshold_breach,unit,reporting_date,trend
+KRI-001,AML Suspicious Activity Reports Filed,Financial Crime,AML,45,30,50,count,2024-03-01,Increasing
+KRI-002,Overdue Regulatory Submissions,Compliance,Reporting,3,2,5,count,2024-03-01,Stable
+KRI-003,Failed Transaction Monitoring Alerts,Payments,AML,120,100,150,count,2024-03-01,Increasing
+KRI-004,Data Quality Error Rate,Operations,Data Governance,4.2,3.0,5.0,percentage,2024-03-01,Stable
+KRI-005,Staff Compliance Training Completion,HR,Conduct Risk,78,85,70,percentage,2024-03-01,Decreasing
+KRI-006,Unresolved Audit Findings,Internal Audit,Governance,8,5,10,count,2024-03-01,Increasing
+KRI-007,Sanctions Screening False Negative Rate,Financial Crime,Sanctions,0.8,0.5,1.0,percentage,2024-03-01,Stable
+KRI-008,Customer Complaints Resolved Within SLA,Operations,Conduct Risk,88,90,80,percentage,2024-03-01,Decreasing
+KRI-009,IT Security Incidents,IT,Cybersecurity,2,3,5,count,2024-03-01,Stable
+KRI-010,Regulatory Capital Ratio,Finance,Prudential,14.2,12.0,10.5,percentage,2024-03-01,Stable
+KRI-011,Overdue KYC Reviews,Compliance,AML,55,40,60,count,2024-03-01,Increasing
+KRI-012,Model Risk Validation Backlog,Risk,Model Risk,6,4,8,count,2024-03-01,Increasing
+KRI-013,Outsourcing Risk Assessments Overdue,Operations,Third Party Risk,4,3,6,count,2024-03-01,Stable
+KRI-014,GDPR Data Subject Requests Overdue,Compliance,Data Privacy,2,1,3,count,2024-03-01,Stable
+KRI-015,Business Continuity Test Pass Rate,IT,Operational Resilience,92,90,85,percentage,2024-03-01,Stable
